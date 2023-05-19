@@ -1,41 +1,41 @@
 # ChatGPT Web
 
-> 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
+> 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。由大发进行二次开发！
 
-更多功能：[chatgpt-web-plus](https://github.com/Chanzhaoyu/chatgpt-web-plus)
+<!-- 更多功能：[chatgpt-web-plus](https://github.com/Chanzhaoyu/chatgpt-web-plus) -->
 
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
 
-- [ChatGPT Web](#chatgpt-web)
-	- [介绍](#介绍)
-	- [待实现路线](#待实现路线)
-	- [前置要求](#前置要求)
-		- [Node](#node)
-		- [PNPM](#pnpm)
-		- [填写密钥](#填写密钥)
-	- [安装依赖](#安装依赖)
-		- [后端](#后端)
-		- [前端](#前端)
-	- [测试环境运行](#测试环境运行)
-		- [后端服务](#后端服务)
-		- [前端网页](#前端网页)
-	- [环境变量](#环境变量)
-	- [打包](#打包)
-		- [使用 Docker](#使用-docker)
-			- [Docker 参数示例](#docker-参数示例)
-			- [Docker build \& Run](#docker-build--run)
-			- [Docker compose](#docker-compose)
-			- [防止爬虫抓取](#防止爬虫抓取)
-		- [使用 Railway 部署](#使用-railway-部署)
-			- [Railway 环境变量](#railway-环境变量)
-		- [手动打包](#手动打包)
-			- [后端服务](#后端服务-1)
-			- [前端网页](#前端网页-1)
-	- [常见问题](#常见问题)
-	- [参与贡献](#参与贡献)
-	- [赞助](#赞助)
-	- [License](#license)
+<!-- - [ChatGPT Web](#chatgpt-web)
+  - [介绍](#介绍)
+  - [待实现路线](#待实现路线)
+  - [前置要求](#前置要求)
+    - [Node](#node)
+    - [PNPM](#pnpm)
+    - [填写密钥](#填写密钥)
+  - [安装依赖](#安装依赖)
+    - [后端](#后端)
+    - [前端](#前端)
+  - [测试环境运行](#测试环境运行)
+    - [后端服务](#后端服务)
+    - [前端网页](#前端网页)
+  - [环境变量](#环境变量)
+  - [打包](#打包)
+    - [使用 Docker](#使用-docker)
+      - [Docker 参数示例](#docker-参数示例)
+      - [Docker build \& Run](#docker-build--run)
+      - [Docker compose](#docker-compose)
+      - [防止爬虫抓取](#防止爬虫抓取)
+    - [使用 Railway 部署](#使用-railway-部署)
+      - [Railway 环境变量](#railway-环境变量)
+    - [手动打包](#手动打包)
+      - [后端服务](#后端服务-1)
+      - [前端网页](#前端网页-1)
+  - [常见问题](#常见问题)
+  - [参与贡献](#参与贡献)
+  - [赞助](#赞助)
+  - [License](#license)
 ## 介绍
 
 支持双模型，提供了两种非官方 `ChatGPT API` 方法
@@ -352,4 +352,4 @@ A: 一种可能原因是经过 Nginx 反向代理，开启了 buffer，则 Nginx
 </div>
 
 ## License
-MIT © [ChenZhaoYu](./license)
+MIT © [ChenZhaoYu](./license) -->

@@ -32,6 +32,7 @@ export default defineConfig((env) => {
     },
     plugins: setupPlugins(viteEnv),
     server: {
+      hmr: true, // 开启热更新
       host: '0.0.0.0',
       port: 1002,
       open: false,
